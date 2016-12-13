@@ -1,6 +1,6 @@
 # Cards
 
-**TODO: Add description**
+**A simple deck of cards app to learn Elixir principles**
 
 ## Installation
 
@@ -21,4 +21,3 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
       [applications: [:cards]]
     end
     ```
-
